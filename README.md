@@ -22,6 +22,6 @@ Feel free to explore my repositories, and don’t hesitate to reach out for coll
 ### 📈 GitHub Stats  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=engkareeem&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engkareeem&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engkareeem&layout=compact&theme=radical)  
 
 
