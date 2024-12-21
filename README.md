@@ -17,10 +17,4 @@ Welcome to my GitHub! I'm a **Computer Engineering student** with a passion for 
 
 Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or discussions! 😊  
 
----
-
-### 📈 GitHub Stats  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=engkareeem&show_icons=true&theme=radical)  
-
 
