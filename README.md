@@ -20,6 +20,6 @@ Welcome to my GitHub! I'm a **Computer Engineering student** with a passion for 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=engkareeem&theme=highcontrast&border_radius=10&short_numbers=true&mode=weekly)<br/>
 
 ---
-Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or discussions! 😊  
+Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or discussions!
 
 
