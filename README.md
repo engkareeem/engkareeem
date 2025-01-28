@@ -17,7 +17,9 @@ Welcome to my GitHub! I'm a **Computer Engineering student** with a passion for 
 - **Email**: yaqoup.kareem@gmail.com 
 ---
 # Statistics
-![](https://github-readme-streak-stats.herokuapp.com/?user=engkareeem&theme=highcontrast&border_radius=10&short_numbers=true&mode=weekly)<br/>
+![](https://github-readme-stats.vercel.app/api?username=engkareeem&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=engkareeem&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or discussions!
