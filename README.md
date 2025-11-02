@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Kareem !  
 
-Welcome to my GitHub! I'm a **Computer Engineering student** with a passion for building creative and functional web applications, mobile apps and desktop apps. 🚀  
-🎓 Graduating in mid-2025
-
+Welcome to my GitHub! I'm a **Software Engineer** with a passion for building creative and functional web applications, mobile apps and desktop apps. 🚀  
 
 ---
 <p align="center">
