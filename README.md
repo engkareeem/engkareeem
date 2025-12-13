@@ -14,10 +14,6 @@ Welcome to my GitHub! I'm a **Software Engineer** with a passion for building cr
 - [**LinkedIn**](https://www.linkedin.com/in/kareem-yaqoup/)
 - **Email**: yaqoup.kareem@gmail.com 
 ---
-# Statistics
-![](https://github-readme-stats.vercel.app/api?username=engkareeem&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=engkareeem&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 Feel free to explore my repositories, and don’t hesitate to reach out for collaboration or discussions!
