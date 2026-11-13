@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kareem !  
 
-Welcome to my GitHub! I'm a **Software Engineer** with a passion for building creative and functional web applications, mobile apps and desktop apps. 🚀  
+Welcome to my GitHub! I'm a **Software Engineer** with a passion for building creative and functional web applications. 🚀  
 
 ---
 <p align="center">
